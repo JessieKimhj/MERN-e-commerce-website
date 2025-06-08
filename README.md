@@ -1,7 +1,4 @@
 # 🛒 MERN E-Commerce Website
-
-Welcome to the **MERN E-Commerce Website**! This project is a feature-rich e-commerce application built using the powerful MERN stack, complete with an intuitive user-facing store and an all-encompassing admin dashboard.
-
 ## ✨ Features
 
 ### 🌟 User Frontend:
@@ -51,15 +48,7 @@ Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/en)
 - [NPM](https://www.npmjs.com/) (Node Package Manager)
 
-**Cloning the Repository**
-
-```bash
-git clone https://github.com/MenathNDGD/MERN-Ecommerce.git
-```
-
 **Installation**
-
-Install the project dependencies using npm:
 
 ```bash
 npm install
